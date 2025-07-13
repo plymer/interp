@@ -1,0 +1,21 @@
+{
+  "name": "interp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+    "dev": "tsx watch src/main.ts",
+    "build": "tsc -b -v"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^24.0.13",
+    "typescript": "^5.8.3",
+    "tsx": "^4.20.3"
+  },
+  "dependencies": {}
+}
+
