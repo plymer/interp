@@ -12,10 +12,10 @@
   "license": "ISC",
   "type": "module",
   "devDependencies": {
+    "@types/geojson": "^7946.0.16",
     "@types/node": "^24.0.13",
-    "typescript": "^5.8.3",
-    "tsx": "^4.20.3"
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
   },
   "dependencies": {}
 }
-
